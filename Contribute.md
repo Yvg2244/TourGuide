@@ -47,3 +47,8 @@ Only contributors can add their name here  ⬅️
  [GitHub](https://github.com/das-amit)
 <!-- next name below this line --> 
 
+### [Yash Verdhan Gupta](www.linkedin.com/in/yashverdhangupta)
+ [Github](https://github.com/Yvg2244)
+ <!-- next name below this line --> 
+ 
+
